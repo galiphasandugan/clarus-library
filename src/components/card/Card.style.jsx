@@ -1,4 +1,3 @@
-// Card Style
 import styled from "styled-components";
 import Flex from "../../styles/Flex";
 
